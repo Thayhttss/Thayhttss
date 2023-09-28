@@ -2,7 +2,8 @@
 
 <!--
 **Thayhttss/Thayhttss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Oi meu nome é Talia eu tenho 16 anos
+eu sou do 1b do ensino medio estudo no colegio civico militar heitor rocha
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
